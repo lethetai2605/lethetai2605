@@ -1,7 +1,7 @@
-### Hi, I'm Le The Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
+# Hi, I'm Le The Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
 ![Website](https://img.shields.io/badge/lisence-Tai-red)
 
-## Your short description
+## My short description
 - 🔭 I’m currently working on - <strong>HUST</strong>
 - Hobbies - :musical_note: :soccer: :video_game:
 
