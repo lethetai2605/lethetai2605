@@ -3,12 +3,14 @@
 ## Your short description
 - 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="30px">
 - 🌱 I’m currently learning - 
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- :notes: Ask me about - ❔❔❔❔
+- 💬 Ask me about - ❔❔❔❔
+-:infinity: 2020 Goal - ❔❔❔❔
+- ⚡ Fun fact - ❔❔❔❔
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=monokai)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact)
 
