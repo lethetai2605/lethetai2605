@@ -1,4 +1,4 @@
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/ec9bGkgjnLFDpby9Cs/giphy.gif" width="25px">
+### Hi, I'm Anonymous <img src="https://media.giphy.com/media/o8uvcc5cfuEB3ck2zS/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
 - 🔭 I’m currently working on - 
