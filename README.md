@@ -1,11 +1,11 @@
-### Hi, I'm Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
+### Hi, I'm Le The Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
 [![Website](https://img.shields.io/badge/lisence-Tai-red)](https://www.facebook.com/lethetai2605/)
 ## Your short description
 - 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="30px">
-- 🌱 I’m currently learning - ❔❔❔❔
+- 🌱 I’m currently learning - 
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
+-:infinity: 2020 Goal - ❔❔❔❔
 - ⚡ Fun fact - ❔❔❔❔
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
