@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## Your short description
-- 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="30px">
+- 🔭 I’m currently working on - <strong>HUST</strong>
 - :musical_note: 
 
 <p align="justify">
