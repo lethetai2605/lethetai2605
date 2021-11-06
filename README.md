@@ -7,7 +7,7 @@
 
 ## Your short description
 - 🔭 I’m currently working on - <strong>HUST</strong>
-- :musical_note: 
+- Hobbies - :musical_note: :soccer: :video_game:
 
 <p align="justify">
   <a href="https://github.com/DanielObara/github-readme-stats">
