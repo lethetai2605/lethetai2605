@@ -11,8 +11,19 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=radical )
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact)
 
+
+<p align="justify">
+  <a href="https://github.com/DanielObara/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/DanielObara/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact&theme=radical" />
+  </a>  
+</p>
 ## Connect with me:
