@@ -1,6 +1,7 @@
 ### Hi, I'm Le The Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
 ![Website](https://img.shields.io/badge/lisence-Tai-red)
 
+![Skype Badge]https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)
 ![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)
 ![Profile Views](https://komarev.com/ghpvc/?username=lethetai2605&color=green)
 
