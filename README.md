@@ -1,7 +1,7 @@
 ### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
+- 🔭 I’m currently working on - 
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
@@ -25,3 +25,4 @@
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&show_icons=true)
