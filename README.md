@@ -10,7 +10,7 @@
 <!-- Also feel free to update second URL to any URL -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=react )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=gotham)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact)
 
