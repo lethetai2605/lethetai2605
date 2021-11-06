@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning - 
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - :notes: Ask me about - ❔❔❔❔
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&theme=radical)
  
