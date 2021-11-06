@@ -3,7 +3,7 @@
 
 ## My short description
 - 🔭 I’m currently working on - <strong>HUST</strong>
-- Hobbies - :musical_note: :soccer: :video_game:
+- :muscle: Hobbies - :musical_note: :soccer: :video_game:
 
 <p align="justify">
   <a href="https://github.com/DanielObara/github-readme-stats">
