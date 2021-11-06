@@ -24,3 +24,4 @@
 [twitter]: https://twitter.com/indrajeet_nikam
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethetai2605)](https://github.com/anuraghazra/github-readme-stats)
