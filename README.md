@@ -9,10 +9,6 @@
 - 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="30px">
 - :musical_note: 
 
-
-
-
-
 <p align="justify">
   <a href="https://github.com/DanielObara/github-readme-stats">
     <img
