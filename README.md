@@ -1,7 +1,7 @@
 ### Hi, I'm Tai <img src="https://media.giphy.com/media/2m1WUiwkhg0zVFlw7d/giphy.gif" width="100px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
-- 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="100px">
+- 🔭 I’m currently working on - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_Hust.png" width="10px">
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
