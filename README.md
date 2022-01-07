@@ -3,6 +3,7 @@
 ## My short description
 - 🔭 I’m currently working on - <strong>HUST</strong>
 - :muscle: Hobbies - :musical_note: :soccer: :video_game:
+![Website](https://img.shields.io/badge/license-Tai-red)
 
 <p align="justify">
       <img height="150" src="https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
