@@ -7,7 +7,7 @@
 
 ## Stats
 
-<p align="justify">
+<p>
 [![Anurag's GitHub stats](https://github-readme-stats-qhy040404.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/lethetai2605)
 
 [![Top Langs](https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=lethetai2605&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music)](https://github.com/lethetai2605)
