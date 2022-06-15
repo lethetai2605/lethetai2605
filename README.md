@@ -5,10 +5,12 @@
 - 🔭 I’m currently working on - <strong>HUST</strong>
 - :muscle: Hobbies - :musical_note: :soccer: :video_game:
 
-<p align="justify">
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=lethetai2605&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact&theme=radical" />
-</p>
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats-qhy040404.vercel.app/api?username=lethetai2605&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/lethetai2605)
+
+[![Top Langs](https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=lethetai2605&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music)](https://github.com/lethetai2605)
+
+[![Wakatime](https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=lethetai2605&langs_count=5&&theme=dark)](https://github.com/lethetai2605)
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lethetai2605&theme=react-dark)](https://github.com/lethetai2605)
 
