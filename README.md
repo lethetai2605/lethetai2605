@@ -10,6 +10,7 @@
 <a href="https://github.com/natee/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact" />
 </a>
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/lethetai2605/count.svg" />
 </p>
