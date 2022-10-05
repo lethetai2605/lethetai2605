@@ -8,12 +8,12 @@
 ## Stats
 
 <a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
 </a>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/lethetai2605/count.svg" />
-</p>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethetai2605&layout=compact" />
+</a>
 
 ### Connect with me:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.fb.com/lethetai2605/)
