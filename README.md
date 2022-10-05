@@ -8,7 +8,7 @@
 ## Stats
 
 <a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lethetai2605&show_icons=true&hide=commits" />
 </a>
 
 <a href="https://github.com/natee/website">
