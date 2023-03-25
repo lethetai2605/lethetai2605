@@ -2,7 +2,7 @@
 
 ## My short description
 - 🔭 I’m currently working on - <strong>HUST</strong>
-- :muscle: Hobbies - :musical_note: :soccer: :video_game:
+- :muscle: Hobbies - :musical_note:
 
 ## Stats
 
